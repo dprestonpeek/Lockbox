@@ -151,9 +151,7 @@
 				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/__ExternalActors__/Puzzle1/B/J9/30Q39OCYQSNDZVJ8W6ZKHQ.uasset",
 				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/__ExternalActors__/Puzzle1/A/3I/TP9Q9NX346MBDL1PXENKKE.uasset",
 				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/__ExternalActors__/Puzzle1/E/LJ/X0OBB1Y4JG3JK84PD0E7CN.uasset",
-				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/__ExternalActors__/Puzzle1/0/7W/DJR9I0YSMIYR7KINMCBULD.uasset",
 				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Puzzle1.umap",
-				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Puzzle1/ControllerActions.uasset",
 				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/ControllerActions.uasset",
 				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/FaceUp.uasset",
 				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/FaceDown.uasset",
@@ -165,7 +163,25 @@
 				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/RightBumper.uasset",
 				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/LeftBumper.uasset",
 				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/RightTrigger.uasset",
-				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/LeftTrigger.uasset"
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/LeftTrigger.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/RightStickButton.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/LeftStickButton.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/ControllerActions.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/RightTrigger.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/RightStickButton.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/RightJoystick.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/RightBumper.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/Lockbox.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/LeftTrigger.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/LeftStickButton.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/LeftJoystick.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/LeftBumper.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/FaceUp.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/FaceRight.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/FaceLeft.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Player/Input/FaceDown.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/__ExternalActors__/Puzzle1/0/7W/DJR9I0YSMIYR7KINMCBULD.uasset",
+				"C:/Users/dpres/Documents/Projects/Lockbox/Lockbox/Content/Puzzle1/ControllerActions.uasset"
 			]
 		}
 	]
