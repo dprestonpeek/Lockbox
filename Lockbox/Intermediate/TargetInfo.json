@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Lockbox",
+			"Path": "..\\Source\\Lockbox.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LockboxEditor",
+			"Path": "..\\Source\\LockboxEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
