@@ -45,10 +45,16 @@
     <ClCompile Include="..\..\Source\Lockbox\Private\ControllerRumble.cpp">
       <Filter>Source\Lockbox\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Lockbox\Private\PuzzleController.cpp">
+      <Filter>Source\Lockbox\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\Lockbox\Public">
       <UniqueIdentifier>{03243842-8624-3BCB-8303-6E1D4E349ABA}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Lockbox\Public\ControllerRumble.h">
+      <Filter>Source\Lockbox\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Lockbox\Public\PuzzleController.h">
       <Filter>Source\Lockbox\Public</Filter>
     </ClCompile>
   </ItemGroup>

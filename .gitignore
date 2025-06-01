@@ -72,3 +72,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 /DerivedDataCache/*
+/Lockbox/Saved
+/Lockbox/Intermediate
+/Lockbox/Saved/ShaderDebugInfo
+/Lockbox/Saved
