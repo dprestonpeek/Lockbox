@@ -7,7 +7,10 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\dpres\Documents\Projects\Lockbox\Lockbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\Lockbox\ControllerRumble.gen.cpp.obj"
+"C:\Users\dpres\Documents\Projects\Lockbox\Lockbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\Lockbox\Lockbox.init.gen.cpp.obj"
 "C:\Users\dpres\Documents\Projects\Lockbox\Lockbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\Lockbox\Lockbox.cpp.obj"
 "C:\Users\dpres\Documents\Projects\Lockbox\Lockbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\Lockbox\PerModuleInline.gen.cpp.obj"
+"C:\Users\dpres\Documents\Projects\Lockbox\Lockbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\Lockbox\ControllerRumble.cpp.obj"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
 /OUT:"C:\Users\dpres\Documents\Projects\Lockbox\Lockbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\Lockbox\UnrealEditor-Lockbox.lib"

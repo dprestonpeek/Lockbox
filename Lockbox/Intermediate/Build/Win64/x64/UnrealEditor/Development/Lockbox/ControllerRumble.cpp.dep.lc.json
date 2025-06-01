@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dpres\\documents\\projects\\lockbox\\lockbox\\source\\lockbox\\private\\controllerrumble.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dpres\\documents\\projects\\lockbox\\lockbox\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lockbox\\definitions.lockbox.h",
+            "c:\\users\\dpres\\documents\\projects\\lockbox\\lockbox\\source\\lockbox\\public\\controllerrumble.h",
+            "c:\\users\\dpres\\documents\\projects\\lockbox\\lockbox\\intermediate\\build\\win64\\unrealeditor\\inc\\lockbox\\uht\\controllerrumble.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

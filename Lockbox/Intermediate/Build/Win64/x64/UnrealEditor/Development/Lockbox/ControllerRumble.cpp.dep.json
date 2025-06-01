@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dpres\\documents\\projects\\lockbox\\lockbox\\source\\lockbox\\private\\controllerrumble.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dpres\\documents\\projects\\lockbox\\lockbox\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lockbox\\definitions.lockbox.h",
+            "c:\\users\\dpres\\documents\\projects\\lockbox\\lockbox\\source\\lockbox\\public\\controllerrumble.h",
+            "c:\\users\\dpres\\documents\\projects\\lockbox\\lockbox\\intermediate\\build\\win64\\unrealeditor\\inc\\lockbox\\uht\\controllerrumble.generated.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
