@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LockboxModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e57f4fc24e96af3ec631eef9f69f962fd9ebb443")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4b142649e8f9f8abec7adef8662e10f8bfc9608")]
 [assembly: System.Reflection.AssemblyProductAttribute("LockboxModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LockboxModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

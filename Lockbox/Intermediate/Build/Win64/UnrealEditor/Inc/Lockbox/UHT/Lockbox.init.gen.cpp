@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeLockbox_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xBFC14676,
-				0xC2869667,
+				0xB727BDA6,
+				0xFE79C1AF,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_Lockbox.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_Lockbox.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Lockbox(Z_Construct_UPackage__Script_Lockbox, TEXT("/Script/Lockbox"), Z_Registration_Info_UPackage__Script_Lockbox, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xBFC14676, 0xC2869667));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Lockbox(Z_Construct_UPackage__Script_Lockbox, TEXT("/Script/Lockbox"), Z_Registration_Info_UPackage__Script_Lockbox, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB727BDA6, 0xFE79C1AF));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
