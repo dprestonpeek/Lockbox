@@ -1,0 +1,34 @@
+Controller Buttons
+	Accelerometer
+	Joysticks
+	Buttons
+	Triggers
+		-Make stretchy or clunky sounds
+		-on PS5 can add adaptive triggers
+	Vibration
+		-Hooked up to an object placed inside a large cube
+		-Vibrations whenever contact is made with walls of large cube
+		-Strength tied to velocity
+		-Also vibrate when each step is complete
+	Sound
+		-Make sounds with each control to make them feel tactile
+		
+	
+Screen feedback
+
+Puzzles
+Level 1:
+Step 1:
+L2(hold) + X + X + X
+
+Step 2:
+R1 then L1
+Both Joysticks in up position
+
+Step 3:
+Right Joystick in right position
+Left Joystick in right position
+Push both joysticks in
+
+Level 2:
+Step 1:

@@ -9,7 +9,7 @@ SET UPROJECT_PATH="C:\Users\dpres\Documents\Projects\Lockbox\Lockbox\Lockbox.upr
 
 REM Set the desired graphics adapter index (e.g., 0 for primary, 1 for secondary)
 REM You may need to experiment to find the correct index for your dedicated GPU.
-SET ADAPTER_INDEX=1
+SET ADAPTER_INDEX=0
 
 REM --- Launch Unreal Editor ---
 echo Starting Unreal Editor on graphics adapter %ADAPTER_INDEX%...

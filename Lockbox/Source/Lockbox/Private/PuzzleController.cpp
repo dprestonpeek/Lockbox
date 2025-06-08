@@ -2,6 +2,7 @@
 
 
 #include "PuzzleController.h"
+#include <EnhancedInputComponent.h>
 
 
 // Sets default values
@@ -31,5 +32,13 @@ void APuzzleController::SetupPlayerInputComponent(UInputComponent* PlayerInputCo
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
+    // --- Enhanced Input System (Example - More modern approach) ---
+    // Make sure to also add the Input Mapping Context in BeginPlay if using Enhanced Input
+     if (UEnhancedInputComponent* EnhancedInputComponent = Cast<UEnhancedInputComponent>(PlayerInputComponent))
+     {
+         // Assuming UInputAction* IA_Move and IA_Jump are defined in your header and linked to Input Actions in the editor
+         //EnhancedInputComponent->BindAction(IA_LeftTrigger, ETriggerEvent::Triggered, this, &AMyCharacter::MoveForwardEnhanced); // Example
+         // EnhancedInputComponent->BindAction(IA_Jump, ETriggerEvent::Started, this, &AMyCharacter::JumpActionEnhanced); // Example
+     }
 }
 
